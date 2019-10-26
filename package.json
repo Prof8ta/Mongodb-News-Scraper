@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-news-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prof8ta/Mongodb-News-Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prof8ta/Mongodb-News-Scraper/issues"
+  },
+  "homepage": "https://github.com/Prof8ta/Mongodb-News-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mogoose": "0.0.1-security",
+    "mongoose": "^5.7.7"
+  }
+}
